@@ -1,4 +1,4 @@
-![MurilloDev](https://user-images.githubusercontent.com/123185990/231787295-5b47cf21-2b55-4f26-be52-374d1df6f396.png)
+![MurilloDev](https://user-images.githubusercontent.com/123185990/231788669-56b00b56-1052-4e91-8dc5-26d42ff6cefb.png)
 
 <h1>SKILLS:</h1>
 
