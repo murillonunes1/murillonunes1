@@ -1,6 +1,4 @@
-<h2>Sup! 😊</h2>
-
-<h3>front-end developer 💻</h3>
+![MurilloDev](https://user-images.githubusercontent.com/123185990/231787295-5b47cf21-2b55-4f26-be52-374d1df6f396.png)
 
 <h1>SKILLS:</h1>
 
