@@ -1,4 +1,5 @@
-![MurilloDev](https://user-images.githubusercontent.com/123185990/231788669-56b00b56-1052-4e91-8dc5-26d42ff6cefb.png)
+Hi 👋
+Welcome to my GitHub! I'm a front-end devoper.
 
 <h1>SKILLS:</h1>
 
