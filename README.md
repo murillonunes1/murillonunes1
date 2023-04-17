@@ -1,5 +1,5 @@
 Hi 👋
-Welcome to my GitHub! I'm a front-end devoper.
+Welcome to my GitHub! I'm a front-end developer.
 
 <h1>SKILLS:</h1>
 
