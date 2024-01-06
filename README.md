@@ -12,7 +12,6 @@ Welcome to my GitHub! I'm a front-end developer.
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
-<img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
 
 https://portfolio-nextjs-murillodev.vercel.app/
 
