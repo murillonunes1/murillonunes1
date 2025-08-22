@@ -1,4 +1,4 @@
-hi 👋, I'm Murillo Nunes.
+Hi 👋, I'm Murillo Nunes.
 
 <div align="center">
 
